@@ -1,4 +1,6 @@
-from airflow import BaseOperator
+from airflow.models import BaseOperator ,DAG, TaskInstance
+import sys
+sys.path.append("airflow_pipeline")
 import json
 from hook.x_hook import TwitterHook
 from datetime import datetime, timedelta
@@ -33,3 +35,9 @@ if __name__ == "__main__":
     end_time = datetime.now().strftime(TIMESTAMP_FORMAT)
     start_time = (datetime.now() +  timedelta(-1)).date().strftime(TIMESTAMP_FORMAT)   
     query = "datascience"
+
+
+    with DAG(dag_id = "TwitterTest", start_date=datetime.now()):
+        to = TwitterOperator(query=query, start_time=start_time , end_time=end_time, task_id="test_run")
+        ti = TaskInstance(task=to)
+        to.execute(ti.task_id)
