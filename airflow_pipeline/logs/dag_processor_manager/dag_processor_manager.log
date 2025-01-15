@@ -6316,3 +6316,1197 @@ File Path                                                                       
 /home/alessandro/Documentos/airflow/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py                                           3           0  0.10s           2025-01-15T13:55:32
 ================================================================================
 [2025-01-15 10:55:54,272] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-01-15 15:31:18,833] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-01-15 15:31:18,833] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-01-15 15:31:18,833] {manager.py:482} INFO - Checking for new files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags every 300 seconds
+[2025-01-15 15:31:18,833] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 15:31:18,834] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 15:31:19,076] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:31:19
+================================================================================
+[2025-01-15 15:31:50,196] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.11s           2025-01-15T18:31:50
+================================================================================
+[2025-01-15 15:32:20,408] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:32:20
+================================================================================
+[2025-01-15 15:32:47,427] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-01-15 15:32:47,428] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-01-15 15:34:35,795] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-01-15 15:34:35,797] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-01-15 15:34:35,800] {manager.py:482} INFO - Checking for new files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags every 300 seconds
+[2025-01-15 15:34:35,800] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 15:34:35,816] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 15:34:36,002] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:34:36
+================================================================================
+[2025-01-15 15:35:06,118] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:35:06
+================================================================================
+[2025-01-15 15:35:36,401] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:35:36
+================================================================================
+[2025-01-15 15:36:06,670] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:36:06
+================================================================================
+[2025-01-15 15:36:36,941] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:36:36
+================================================================================
+[2025-01-15 15:37:07,209] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:37:07
+================================================================================
+[2025-01-15 15:37:37,397] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:37:37
+================================================================================
+[2025-01-15 15:38:07,669] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:38:07
+================================================================================
+[2025-01-15 15:38:37,938] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:38:37
+================================================================================
+[2025-01-15 15:39:08,211] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:39:08
+================================================================================
+[2025-01-15 15:39:35,868] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 15:39:35,869] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 15:39:38,498] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:39:38
+================================================================================
+[2025-01-15 15:40:08,766] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:40:08
+================================================================================
+[2025-01-15 15:40:39,040] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:40:39
+================================================================================
+[2025-01-15 15:41:09,313] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:41:09
+================================================================================
+[2025-01-15 15:41:39,579] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:41:39
+================================================================================
+[2025-01-15 15:42:09,847] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:42:09
+================================================================================
+[2025-01-15 15:42:40,125] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:42:40
+================================================================================
+[2025-01-15 15:43:10,405] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:43:10
+================================================================================
+[2025-01-15 15:43:40,677] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:43:40
+================================================================================
+[2025-01-15 15:44:10,948] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:44:10
+================================================================================
+[2025-01-15 15:44:35,903] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 15:44:35,904] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 15:44:41,216] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:44:41
+================================================================================
+[2025-01-15 15:45:11,485] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:45:11
+================================================================================
+[2025-01-15 15:45:41,755] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:45:41
+================================================================================
+[2025-01-15 15:46:12,021] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:46:12
+================================================================================
+[2025-01-15 15:46:42,289] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:46:42
+================================================================================
+[2025-01-15 15:47:12,558] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:47:12
+================================================================================
+[2025-01-15 15:47:42,827] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:47:42
+================================================================================
+[2025-01-15 15:48:13,095] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:48:13
+================================================================================
+[2025-01-15 15:48:43,361] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:48:43
+================================================================================
+[2025-01-15 15:49:13,626] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:49:13
+================================================================================
+[2025-01-15 15:49:35,939] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 15:49:35,940] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 15:49:43,897] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:49:43
+================================================================================
+[2025-01-15 15:50:14,167] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:50:14
+================================================================================
+[2025-01-15 15:50:44,434] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:50:44
+================================================================================
+[2025-01-15 15:51:14,700] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:51:14
+================================================================================
+[2025-01-15 15:51:44,976] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:51:44
+================================================================================
+[2025-01-15 15:52:15,249] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:52:15
+================================================================================
+[2025-01-15 15:52:45,520] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:52:45
+================================================================================
+[2025-01-15 15:53:15,794] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:53:15
+================================================================================
+[2025-01-15 15:53:46,065] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:53:46
+================================================================================
+[2025-01-15 15:54:16,332] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:54:16
+================================================================================
+[2025-01-15 15:54:35,973] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 15:54:35,974] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 15:54:46,602] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:54:46
+================================================================================
+[2025-01-15 15:55:16,873] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:55:16
+================================================================================
+[2025-01-15 15:55:47,143] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:55:47
+================================================================================
+[2025-01-15 15:56:17,417] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:56:17
+================================================================================
+[2025-01-15 15:56:47,707] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:56:47
+================================================================================
+[2025-01-15 15:57:17,986] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:57:17
+================================================================================
+[2025-01-15 15:57:48,263] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:57:48
+================================================================================
+[2025-01-15 15:58:18,538] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:58:18
+================================================================================
+[2025-01-15 15:58:48,816] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:58:48
+================================================================================
+[2025-01-15 15:59:19,089] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:59:19
+================================================================================
+[2025-01-15 15:59:36,005] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 15:59:36,006] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 15:59:49,365] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T18:59:49
+================================================================================
+[2025-01-15 16:00:19,546] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:00:19
+================================================================================
+[2025-01-15 16:00:49,726] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:00:49
+================================================================================
+[2025-01-15 16:01:19,909] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:01:19
+================================================================================
+[2025-01-15 16:01:50,098] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:01:50
+================================================================================
+[2025-01-15 16:02:20,279] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:02:20
+================================================================================
+[2025-01-15 16:02:50,473] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:02:50
+================================================================================
+[2025-01-15 16:03:20,653] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:03:20
+================================================================================
+[2025-01-15 16:03:50,838] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:03:50
+================================================================================
+[2025-01-15 16:04:21,023] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:04:21
+================================================================================
+[2025-01-15 16:04:36,039] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:04:36,040] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:04:51,206] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:04:51
+================================================================================
+[2025-01-15 16:05:21,391] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:05:21
+================================================================================
+[2025-01-15 16:05:51,589] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:05:51
+================================================================================
+[2025-01-15 16:06:21,784] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:06:21
+================================================================================
+[2025-01-15 16:06:51,969] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:06:51
+================================================================================
+[2025-01-15 16:07:22,154] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:07:22
+================================================================================
+[2025-01-15 16:07:52,338] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:07:52
+================================================================================
+[2025-01-15 16:08:22,521] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:08:22
+================================================================================
+[2025-01-15 16:08:52,701] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:08:52
+================================================================================
+[2025-01-15 16:09:22,886] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:09:22
+================================================================================
+[2025-01-15 16:09:36,073] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:09:36,074] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:09:53,074] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:09:53
+================================================================================
+[2025-01-15 16:10:23,255] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:10:23
+================================================================================
+[2025-01-15 16:10:53,436] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:10:53
+================================================================================
+[2025-01-15 16:11:23,618] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:11:23
+================================================================================
+[2025-01-15 16:11:53,798] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:11:53
+================================================================================
+[2025-01-15 16:12:23,981] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:12:23
+================================================================================
+[2025-01-15 16:12:54,167] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:12:54
+================================================================================
+[2025-01-15 16:13:24,350] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:13:24
+================================================================================
+[2025-01-15 16:13:54,532] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:13:54
+================================================================================
+[2025-01-15 16:14:24,713] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:14:24
+================================================================================
+[2025-01-15 16:14:36,111] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:14:36,112] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:14:54,871] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:14:54
+================================================================================
+[2025-01-15 16:15:25,031] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:15:25
+================================================================================
+[2025-01-15 16:15:55,192] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.11s           2025-01-15T19:15:55
+================================================================================
+[2025-01-15 16:16:25,350] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:16:25
+================================================================================
+[2025-01-15 16:16:55,514] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:16:55
+================================================================================
+[2025-01-15 16:17:25,674] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:17:25
+================================================================================
+[2025-01-15 16:17:55,835] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:17:55
+================================================================================
+[2025-01-15 16:18:25,993] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:18:25
+================================================================================
+[2025-01-15 16:18:56,154] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:18:56
+================================================================================
+[2025-01-15 16:19:26,315] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:19:26
+================================================================================
+[2025-01-15 16:19:36,146] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:19:36,147] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:19:56,477] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:19:56
+================================================================================
+[2025-01-15 16:20:26,637] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:20:26
+================================================================================
+[2025-01-15 16:20:56,799] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:20:56
+================================================================================
+[2025-01-15 16:21:26,958] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:21:26
+================================================================================
+[2025-01-15 16:21:57,121] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:21:57
+================================================================================
+[2025-01-15 16:22:27,281] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:22:27
+================================================================================
+[2025-01-15 16:22:57,439] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:22:57
+================================================================================
+[2025-01-15 16:23:27,594] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:23:27
+================================================================================
+[2025-01-15 16:23:57,754] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:23:57
+================================================================================
+[2025-01-15 16:24:27,907] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:24:27
+================================================================================
+[2025-01-15 16:24:36,182] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:24:36,184] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:24:58,061] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:24:58
+================================================================================
+[2025-01-15 16:25:28,214] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:25:28
+================================================================================
+[2025-01-15 16:25:58,373] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:25:58
+================================================================================
+[2025-01-15 16:26:28,534] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.11s           2025-01-15T19:26:28
+================================================================================
+[2025-01-15 16:26:36,006] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-01-15 16:26:43,939] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-01-15 16:26:43,944] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-01-15 16:26:43,944] {manager.py:482} INFO - Checking for new files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags every 300 seconds
+[2025-01-15 16:26:43,944] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:26:43,945] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:26:44,083] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:26:44
+================================================================================
+[2025-01-15 16:27:14,213] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:27:14
+================================================================================
+[2025-01-15 16:27:44,496] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:27:44
+================================================================================
+[2025-01-15 16:28:14,784] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:28:14
+================================================================================
+[2025-01-15 16:28:45,061] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:28:45
+================================================================================
+[2025-01-15 16:29:15,338] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:29:15
+================================================================================
+[2025-01-15 16:29:45,499] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:29:45
+================================================================================
+[2025-01-15 16:30:15,780] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:30:15
+================================================================================
+[2025-01-15 16:30:46,061] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:30:46
+================================================================================
+[2025-01-15 16:31:16,345] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:31:16
+================================================================================
+[2025-01-15 16:31:43,954] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:31:43,955] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:31:46,625] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:31:46
+================================================================================
+[2025-01-15 16:32:16,877] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:32:16
+================================================================================
+[2025-01-15 16:32:47,165] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:32:47
+================================================================================
+[2025-01-15 16:33:17,447] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           1  0.10s           2025-01-15T19:33:17
+================================================================================
+[2025-01-15 16:33:47,733] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:33:47
+================================================================================
+[2025-01-15 16:34:18,023] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:34:18
+================================================================================
+[2025-01-15 16:34:22,815] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-01-15 16:34:34,634] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-01-15 16:34:34,635] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-01-15 16:34:34,635] {manager.py:482} INFO - Checking for new files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags every 300 seconds
+[2025-01-15 16:34:34,635] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:34:34,636] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:34:34,767] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:34:34
+================================================================================
+[2025-01-15 16:35:04,890] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:35:04
+================================================================================
+[2025-01-15 16:35:35,181] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:35:35
+================================================================================
+[2025-01-15 16:36:05,476] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:36:05
+================================================================================
+[2025-01-15 16:36:35,772] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:36:35
+================================================================================
+[2025-01-15 16:37:06,063] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:37:06
+================================================================================
+[2025-01-15 16:37:36,197] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:37:36
+================================================================================
+[2025-01-15 16:38:06,522] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:38:06
+================================================================================
+[2025-01-15 16:38:36,797] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           0           0  0.10s           2025-01-15T19:38:36
+================================================================================
+[2025-01-15 16:39:07,082] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           1           0  0.10s           2025-01-15T19:39:07
+================================================================================
+[2025-01-15 16:39:34,642] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:39:34,643] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:39:37,354] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           1           0  0.10s           2025-01-15T19:39:37
+================================================================================
+[2025-01-15 16:40:07,594] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           1           0  0.10s           2025-01-15T19:40:07
+================================================================================
+[2025-01-15 16:40:38,690] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           1           0  0.10s           2025-01-15T19:40:38
+================================================================================
+[2025-01-15 16:41:09,795] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           1           0  0.10s           2025-01-15T19:41:09
+================================================================================
+[2025-01-15 16:41:40,283] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           1           0  0.10s           2025-01-15T19:41:40
+================================================================================
+[2025-01-15 16:42:10,579] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           1           0  0.10s           2025-01-15T19:42:10
+================================================================================
+[2025-01-15 16:42:40,870] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           1           0  0.10s           2025-01-15T19:42:40
+================================================================================
+[2025-01-15 16:43:11,174] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           1           0  0.10s           2025-01-15T19:43:11
+================================================================================
+[2025-01-15 16:43:41,473] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           1           0  0.10s           2025-01-15T19:43:41
+================================================================================
+[2025-01-15 16:44:11,771] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/alessandro/Documentos/airflow/airflow_pipeline/dags/x_dag.py                           1           0  0.10s           2025-01-15T19:44:11
+================================================================================
+[2025-01-15 16:44:34,681] {manager.py:690} INFO - Searching for files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
+[2025-01-15 16:44:34,682] {manager.py:693} INFO - There are 1 files in /home/alessandro/Documentos/airflow/airflow_pipeline/dags
