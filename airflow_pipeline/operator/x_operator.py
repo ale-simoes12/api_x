@@ -1,6 +1,7 @@
 from airflow import BaseOperator
 import json
 from hook.x_hook import TwitterHook
+from datetime import datetime, timedelta
 
 
 class TwitterOperator(BaseOperator):
@@ -16,8 +17,19 @@ class TwitterOperator(BaseOperator):
         end_time = self.end_time
         start_time = self.start_time
         query = self.query
+    
 
-        for pg in TwitterHook(end_time, start_time, query).run():
-            print(json.dumps(pg, indent=4, sort_keys=True))
+        with open("extract_x.json" , "w") as saida_dados:
+            for pg in TwitterHook(end_time, start_time, query).run():
+                json.dump(pg,saida_dados, ensure_ascii=False)
+                saida_dados.write("\n")
 
-            
+
+if __name__ == "__main__":
+
+   #montando url
+    TIMESTAMP_FORMAT = "%Y-%m-%dT%H:%M:%S.00Z"
+
+    end_time = datetime.now().strftime(TIMESTAMP_FORMAT)
+    start_time = (datetime.now() +  timedelta(-1)).date().strftime(TIMESTAMP_FORMAT)   
+    query = "datascience"
